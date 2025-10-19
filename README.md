@@ -87,8 +87,10 @@ Use the search bar to filter notes by title in real-time.
 1. Clone the repository 
 
 ````
-git clone https://github.com/Zidofski/To-do-list.git
+mkdir todo-list-app
 cd todo-list-app
+git clone https://github.com/Zidofski/To-do-list.git
+
 
 ````
 
