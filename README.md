@@ -91,7 +91,6 @@ mkdir todo-list-app
 cd todo-list-app
 git clone https://github.com/Zidofski/To-do-list.git
 
-
 ````
 
 2. Run locally
